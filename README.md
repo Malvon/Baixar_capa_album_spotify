@@ -10,7 +10,7 @@ Certifique-se de ter o Python instalado e instale as dependências necessárias:
 pip install pandas requests python-dotenv openpyxl
 
 2. Planilha de Dados  
-É necessário um arquivo Excel (.xlsx) ou CSV contendo, no mínimo, as colunas 'ARTISTA' e 'ALBUM'
+É necessário um arquivo Excel (.xlsx ou .csv) contendo, no mínimo, as colunas 'ARTISTA' e 'ALBUM'
 
 3. Credenciais do Spotify  
 Crie um arquivo chamado .env na mesma pasta do script capa.py. Ele deve conter suas credenciais (sem aspas e sem espaços):  
